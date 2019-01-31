@@ -15,9 +15,6 @@ endif
 if filereadable("/etc/vim/vimrc.local")
    source /etc/vim/vimrc.local
 endif
-    
-
-
 
 " danirod's vimrc settings
 " Author and maintainer: Dani Rodríguez <danirod@outlook.com>
